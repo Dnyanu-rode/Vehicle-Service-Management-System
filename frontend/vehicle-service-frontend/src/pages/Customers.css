@@ -1,0 +1,41 @@
+.cancel-button {
+    background: #6b7280;
+    color: white;
+    border: none;
+    padding: 11px 20px;
+    border-radius: 7px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.cancel-button:hover {
+    background: #4b5563;
+}
+
+.edit-button {
+    background: #f59e0b;
+    color: white;
+    border: none;
+    padding: 7px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 7px;
+}
+
+.edit-button:hover {
+    background: #d97706;
+}
+
+.delete-button {
+    background: #dc2626;
+    color: white;
+    border: none;
+    padding: 7px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.delete-button:hover {
+    background: #b91c1c;
+}
